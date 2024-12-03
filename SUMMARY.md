@@ -2,12 +2,12 @@
 
 ## Algorithm
 
-* [基本数据结构](README.md)
+* [Introduction](README.md)
 
 ## What
 
 * [Page 1](what/page-1.md)
 
-## 其它
+## Others
 
-* [Page 2](g6qw8v/page-2.md)
+* [Page 2](others/page-2.md)
