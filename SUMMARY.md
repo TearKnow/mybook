@@ -1,6 +1,6 @@
 # Table of contents
 
-## 算法
+## Algorithm
 
 * [基本数据结构](README.md)
 
